@@ -13,7 +13,8 @@
   },
   "scripts": {
     "tsc": "tsc --project .",
-    "lint": "tslint --project ."
+    "lint": "tslint --project .",
+    "build": "tsc"
   },
   "author": "Suraj Tiwari <surajtiwari020@gmail.com>",
   "license": "MIT",
